@@ -1,0 +1,31 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+<p>I am currently about to (hopefully) graduate from Kingston University London with a BSc Hons in Computer Science. Dependent on my grades, I have a place to study for my MSc at St Andrew's University. My main areas of interest (outside of Scotland Rugby and Arsenal), are Artificial Intelligence and Machine Learning, and the implementations of technology for health. I <a href="/books">read a lot</a> and sometimes <a href="/blog/blog">write about them or other things</a>. 
+
+I am always happy to talk about anything mentioned on the site. Get in touch with the links at the bottom of the page. 
+
+You can view my whole CV <a href="#">here</a>, or take a look at the <a href="">projects</a> I have done in the past or my experience below.
+
+</p>
+<hr>
+
+<h3>Education 📚</h3>
+
+<strong>Kingston University London - <i>2017 to 2021</i></strong>
+
+First Class in second year Computer Science BSc with Industrial Placement (88% average)
+
+<strong>Prior Park College - <i>2009 to 2016</i></strong>
+
+
+10 GCSEs at A-C including English and Maths3 A Levels in Philosophy, English and Economics 
+
+<h3>Experience 👨🏼‍💻</h3>
+<strong>Intelligence Analyst & Developer, Internship, UK — 2019 - 2020 </strong>
+Due do a non disclosure agreement, I am limited in what I can disclose about the tasks I undertook. However references andfurther information are available.I worked as a developer and analyst at a not for profit company in the financial sector. I led thedevelopment of a major company initiative, developing a web application using the Django framework. This involved writing andmanaging the codebase, as well as presenting the application to senior executives at well known financial institutions. Other roles Iperformed during my placement include writing Python and Bash scripts for intelligence gathering, open source research andgenerating intelligence reports to be distributed widely within the industry. I was fortunate to be given a number of responsibilitiesincluding running the daily update call with over 15 other corporations, and being added to the on-call out of hours employee rota.<strong>Technical Specialist, Apple, UK — 2018 </strong>
+I provided technical support for customers at the largest corporation in the world. I was able to extensively improve my written andoral communication and ability to deal with a variety of customers.<strong>Business Intern, Network Rail, UK — 2016-2017</strong>
+I played a lead role in an £8 million project, reporting to senior managers within the company nationwide. The systems andorganisational structure I created were continually used after I left.
