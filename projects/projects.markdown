@@ -13,7 +13,7 @@ I have added some projects I have worked/am currently working on below. Take a l
 
 This was my final year dissertation project of my undergraduate computer science degree. I build 4 deep learning (DL) models and  a web app to look at using audio for siren detection. The aim was to train models to deploy for a) accessibility and b) driverless cars, but was mainly tailored at educating me on DL. It was very fun getting a DL model actually working and classifying results and I learnt a lot on model types and DL development. I have included a link to my final report below.
 
-<a href="Final Report.docx">Project Report </a> <- Coming soon... (After its marked)
+<a href="FinalReport.pdf">
 
 <h3> Web Application Development (2019 - 2020) </h3>
 
