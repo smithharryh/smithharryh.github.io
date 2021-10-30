@@ -15,6 +15,10 @@ You can view my whole CV <a href="#">here</a>, or take a look at the <a href="/p
 
 <h3>Education 📚</h3>
 
+<strong>University of St Andrews - <i>2021 to 2022</i></strong>
+
+MSc in Digital Health
+
 <strong>Kingston University London - <i>2017 to 2021</i></strong>
 
 First Class in second year Computer Science BSc with Industrial Placement (88% average)
