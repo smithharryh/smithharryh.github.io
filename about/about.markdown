@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-<p>After graduating with a 1st class degree in Computer Science BSc, I am continuing my studies at the University of St Andrews where I am studying for an MSc in Digital Health. My main areas of interest (outside of Scotland Rugby and Arsenal), are Artificial Intelligence and Machine Learning, and the implementations of technology for health. I <a href="/books">read a lot</a> and sometimes <a href="/blog/blog">write about them or other things</a>. 
+<p>After graduating with a 1st class degree in Computer Science BSc, I am continuing my studies at the University of St Andrews where I am studying for an MSc in Digital Health. My main areas of interest (outside of Scotland Rugby and Arsenal), are Artificial Intelligence and Machine Learning, and the implementations of technology for health. I <a href="/books">read a lot</a> and sometimes <a href="/blog/blog">write about what I've read or other things</a>. (or I will do this eventually...)
 
 I am always happy to talk about anything mentioned on the site. Get in touch with the links at the bottom of the page. 
 
-You can view my whole CV <a href="#">here</a>, or take a look at the <a href="">projects</a> I have done in the past or my experience below.
+You can view my whole CV <a href="#">here</a>, or take a look at the <a href="/projects/projects">projects</a> I have done in the past or my experience below.
 
 </p>
 <hr>
@@ -20,7 +20,6 @@ You can view my whole CV <a href="#">here</a>, or take a look at the <a href="">
 First Class in second year Computer Science BSc with Industrial Placement (88% average)
 
 <strong>Prior Park College - <i>2009 to 2016</i></strong>
-
 
 10 GCSEs at A-C including English and Maths
 3 A Levels in Philosophy, English and Economics 
