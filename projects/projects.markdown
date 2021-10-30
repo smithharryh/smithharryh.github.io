@@ -6,6 +6,12 @@ permalink: /projects/projects/
 
 I have added some projects I have worked/am currently working on below. Take a look and get in touch with any questions.
 
+<h3> HarryCoin - Making my own Cryptocurrency </h3>
+
+<i> Python, Flask, Postman </i>
+
+I've been intrigued by crypto for a wee while, but have never explored it particularly deeply. I own a tiny amount of bitcoin and have done for a couple of years which is cool but my understanding of how it works have been surface level. I haven't writtne much Python in the last few months so I thought the best way to learn would be to build my own cryptocurrency from scratch in Python. My main guide is <a href="https://hackernoon.com/learn-blockchains-by-building-one-117428612f46"> here</a>, but I'll be taking inspiration from other places I'll reference on my github <a href= "#">here</a>. My stretch goal would be to host it on my Raspberry Pi but for now I'll focus on writing the code.
+
 
 <h3> Audio Event Detection for Emergency Service Vehicles (2020 - 2021) </h3>
 
