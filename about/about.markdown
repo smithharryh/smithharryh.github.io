@@ -21,7 +21,7 @@ MSc in Digital Health
 
 <strong>Kingston University London - <i>2017 to 2021</i></strong>
 
-First Class in second year Computer Science BSc with Industrial Placement (88% average)
+First Class in Computer Science BSc with Industrial Placement (89% average)
 
 <strong>Prior Park College - <i>2009 to 2016</i></strong>
 
