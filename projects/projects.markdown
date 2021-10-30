@@ -21,6 +21,9 @@ This was my final year dissertation project of my undergraduate computer science
 
 <a href="../FinalReport.pdf"> Project Report</a>
 
+<a href="https://github.com/smithharryh/Emergency-Service-Vehicle-Detection"> GitHub repository</a>
+
+
 <h3> Web Application Development (2019 - 2020) </h3>
 
 <i>Django, Git, D3.js, Bootstrap  </i>
