@@ -6,6 +6,16 @@ permalink: /projects/projects/
 
 I have added some projects I have worked/am currently working on below. Take a look and get in touch with any questions.
 
+<h3> Amazon Price Scraper </h3>
+
+<i> Python, Bash </i>
+
+I recently bought some new headphones full price and then Amazon discounted them a couple of days later 🥲. I have free returns for three months and want to check the Amazon price to see if it gets to the point where its worth me going to the store to return them and get them from Amazon. So I made a super simple scraper project running on crontab to scrape Amazon and get the current price of my headphones every hour.
+
+Next I'll get it to email me if the price dips below my "efficiency point" so I can return my ones and buy them from Amazon! The scripts are short and sweet but saves me some time and hopefully money!
+
+Code available <a href="https://github.com/smithharryh/AmazonPriceScraper ">here.</a>
+
 <h3> HarryCoin - Making my own Cryptocurrency </h3>
 
 <i> Python, Flask, Postman </i>
