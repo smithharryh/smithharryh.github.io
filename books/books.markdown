@@ -7,6 +7,16 @@ permalink: /books/
 
 This is a list of all the books I have read over the last few years. Most are just a record of what I've read but some of them I'll put a link in for some thoughts and a brief review.
 
+## 2022
+
+- An Unsung Hero Tom Crean Antarctic Survivor - Michael Smith
+- God is not Great - Christopher Hitchens
+- Machines Like Me - Ian McEwan
+- Klara and The Sun - Kazuo Ishiguro
+- Space: 10 Things You Should Know - Dr Becky Smethurst
+- I, Robot - Isaac Asimov
+- Piranesi- Susanna Clarke
+
 ## 2021
 
 - A Life on Our Planet: David Attenborough 
@@ -27,7 +37,22 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Brave New World: Aldous Huxley
 - 1984: George Orwell
 - Hiking with Nietzsche: John kaag
-
+- The book of why - Judea Pearl
+- Animal Farm - George Orwell
+- A promised land - Barack Obama
+- The education of an idealist - Samantha Power
+- The shortest history of England - James Hawes
+- Indistractable - Nir Eyal
+- 7 ways to change the world - Gordon Brown
+- Troy - Stephen Fry
+- Blueprint - Ross Edgley
+- The murder on the links - Agatha Christie
+- Dr No - Ian Fleming
+- Casino Royale - Ian Fleming
+- Invention: A life - James Dyson
+- Shackleton - Ranulph Fiennes
+- Shackleton By Endurance We Conquer - Michael Smith
+- CoffeeLand - Augustine Sedgewick
 
 ## 2020
 
