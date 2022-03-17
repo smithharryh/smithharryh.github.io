@@ -30,7 +30,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Can’t Hurt Me: David Goggins
 - Atomic Habits: James Clear
 - Deep Work: Cal Newport
-- Our of Thin Air: Michael Crawley 
+- Out of Thin Air: Michael Crawley 
 - The Laws of Human Nature: Robert Greene
 - Exercised: Daniel Lieberman
 - Destined for War: Graham Allison 
