@@ -17,27 +17,39 @@ This is a list of all the books I have read over the last few years. Most are ju
 - I, Robot - Isaac Asimov
 - Piranesi - Susanna Clarke
 - Anna Karenina - Leo Tolstoy
+- Midnight library - Matt Haig
+- An instance of the finger post - Iain pears
+- Spoon fed - Tim Spector
+- Lessons in stoicism - John Sellars
+- Supermac: The Life of Harold MacMillan - D.R.Thorpe
+- 24 hours in Ancient Athens - Philip Matyszak
+- What I Believe - Bertrand Russell
+- Down and Out in Paris and London - George Orwell
+- A Clergyman’s Daughter - George Orwell
+- The Picture of Dorian Gray - Oscar Wilde
+- Keep the Aspidistra Flying - George Orwell
+- How the World Thinks - Julian Baggini
 
 ## 2021
 
-- A Life on Our Planet: David Attenborough 
-- Soldier: Jay Morton
-- The Wim Hof Method: Wim Hof
-- The Art of Resilience: Ross Edgley
-- Beyond Possible: Nimsdai Purja 
-- Born to Run: Christopher McDougall
-- The Lost Art of Running: Shane Benzie
-- The Way of the Runner: Adharanand Finn
-- Can’t Hurt Me: David Goggins
-- Atomic Habits: James Clear
-- Deep Work: Cal Newport
-- Out of Thin Air: Michael Crawley 
-- The Laws of Human Nature: Robert Greene
-- Exercised: Daniel Lieberman
-- Destined for War: Graham Allison 
-- Brave New World: Aldous Huxley
-- 1984: George Orwell
-- Hiking with Nietzsche: John kaag
+- A Life on Our Plane - David Attenborough 
+- Soldier - Jay Morton
+- The Wim Hof Method - Wim Hof
+- The Art of Resilienc - Ross Edgley
+- Beyond Possible - Nimsdai Purja 
+- Born to Run - Christopher McDougall
+- The Lost Art of Running - Shane Benzie
+- The Way of the Runner - Adharanand Finn
+- Can’t Hurt Me - David Goggins
+- Atomic Habits - James Clear
+- Deep Work - Cal Newport
+- Out of Thin Air - Michael Crawley 
+- The Laws of Human Nature - Robert Greene
+- Exercised - Daniel Lieberman
+- Destined for War - Graham Allison 
+- Brave New World - Aldous Huxley
+- 1984 - George Orwell
+- Hiking with Nietzsche - John kaag
 - The book of why - Judea Pearl
 - Animal Farm - George Orwell
 - A promised land - Barack Obama
@@ -57,46 +69,46 @@ This is a list of all the books I have read over the last few years. Most are ju
 
 ## 2020
 
-- Superforcasting - The Art and Science of Prediction: Philip Tetlock
-- Superintelligence: Nick Bostrom
+- Superforcasting: The Art and Science of Prediction - Philip Tetlock
+- Superintelligence - Nick Bostrom
 - How the KGB took back Russia and then took on the West
 - The Black Door
-- Why Spy?: Brian Stewart
-- Hit Refresh: Satya Nadella
-- Running with the Kenyans: Adharanand Finn
+- Why Spy? - Brian Stewart
+- Hit Refresh - Satya Nadella
+- Running with the Kenyans - Adharanand Finn
 - Churchill’s Ministry of Ungentlemanly Warfare
 - Feeding Britain
-- Who Rules the World?: Noam Chomsky
+- Who Rules the World? - Noam Chomsky
 - The Uninhabitable Earth
 - How to Run a Government 
 - The Prime Ministers
 - The Theory That Would Not Die
-- The Audacity of Hope: Barack Obama
-- The Signal and the Noise
-- Life 3.0: Max Tegmark
-- The Road to Conscious Machines: Michael Woolridge
-- How Democracie Die
-- Burma ‘44: James Holland
-- Line in the Sand: James Barr
-- Humble Pie: Gordon Ramsay
+- The Audacity of Hope - Barack Obama
+- The Signal and the Noise - Nate Silver
+- Life 3.0 - Max Tegmark
+- The Road to Conscious Machines - Michael Woolridge
+- How Democracies Die
+- Burma ‘44 - James Holland
+- Line in the Sand - James Barr
+- Humble Pie - Gordon Ramsay
 
 ## 2019
 
-- Conservativism: Roger Scruton
+- Conservativism - Roger Scruton
 - Bad blood
 - Blockchain - The Next Everything
 - Charlie, Meg and Me
-- The Places in Between: Rory Stewart
-- Factfulness: Hans Rosling
-- Waking up to the Facebook Catastrophe: Roger McNamee 
+- The Places in Between - Rory Stewart
+- Factfulness - Hans Rosling
+- Waking up to the Facebook Catastrophe - Roger McNamee 
 - Utopia for Realists
-- 21 lessons: Yuval Noah Harrari
-- For the Record: David Cameron
-- Targeted: Brittany Kaiser 
-- Occupational Hazards: Rory Stewart 
+- 21 lessons for the 21st Century - Yuval Noah Harrari
+- For the Record - David Cameron
+- Targeted - Brittany Kaiser 
+- Occupational Hazards - Rory Stewart 
 - World Without Mind
 - Dinner with Churchill
-- The Marches: Rory Stewart 
-- There is No Planet B: Mike Berners Lee
-- Big Answers to the Big Questions: Stephen Hawkins
-- Digital Minimalism: Cal Neport
+- The Marches - Rory Stewart 
+- There is No Planet B - Mike Berners Lee
+- Big Answers to the Big Questions - Stephen Hawkins
+- Digital Minimalism - Cal Neport
