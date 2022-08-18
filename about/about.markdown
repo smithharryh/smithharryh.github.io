@@ -29,6 +29,12 @@ First Class in Computer Science BSc with Industrial Placement (89% average)
 3 A Levels in Philosophy, English and Economics 
 
 <h3>Experience 👨🏼‍💻</h3>
+
+<strong> Cyber Threat Innovations Analyst, UK - 2022 - </strong>
+
+I have returned to the company I worked with on my internship after my masters in a more senior role looking at both innovations and development, and cyber threat intelligence 
+
+
 <strong>Intelligence Analyst & Developer, Internship, UK — 2019 - 2020 </strong>
 
 Due do a non disclosure agreement, I am limited in what I can disclose about the tasks I undertook. However references and
