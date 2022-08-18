@@ -5,6 +5,14 @@ permalink: /projects/projects/
 ---
 
 I have added some projects I have worked/am currently working on below. Take a look and get in touch with any questions.
+<h3> A comprehensive review of using magnetic resonance imaging scans to detect the presence of MGMT methylation promoter in glioblastoma patients (2022) </h3>
+
+<i> Deep Learning, Tensorflow, Jupyter, Python, Streamlit, Pydicom </i>
+
+This was my masters dissertation project where I worked on the <a href="https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification"> 2021 BRaTs kaggle competition</a> to show why analysing biomarkers using mpMRIs is not possible. I did this by building a range of convolutional neural networks to assess their performance for identifying MGMT methylation promoter biomarker. I built on this by creating a proof of concept web app for clinicans to assess patient MRI scans.
+
+<a href="#"> Project Report - I'll publish when graded</a>
+
 
 <h3> Amazon Price Scraper </h3>
 
