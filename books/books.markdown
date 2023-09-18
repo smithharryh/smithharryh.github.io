@@ -7,6 +7,30 @@ permalink: /books/
 
 This is a list of all the books I have read over the last few years. Most are just a record of what I've read but some of them I'll put a link in for some thoughts and a brief review.
 
+## 2023
+
+- The Old Man and The Sea - Ernest Hemingway
+- Carry On Jeeves - P.G. Wodehouse
+- The Shortest History of Germany - James Hawes
+- Stamboul Train - Graham Greene
+- Stasiland - Anna Funder
+- Tunnel 29 - Helena Merriman
+- Casino Royale - Ian Fleming
+- Hurricane Lizards and Plastic Squid - Thor Hanson
+- Very good, Jeeves - P.G. Wodehouse
+- The Brothers Karamazov - Fyodor Dostoevsky
+- Homage to Catalonia - George Orwell
+- The Future of Geography - Tim Marshall
+- Attack Warning Red! How Britain Prepared for Nuclear War - Julie McDowall
+- Killing Thatcher - Rory Carroll
+- Breaking History - Jared Kushner
+- Steve Jobs - Walter Isaacson
+- Thank you Jeeves - P.G.Wodehouse
+- Hitler and Stalin - Laurence Rees
+- American Prometheus - Kai Bird and Martin J. Sherwin
+- Oblivion or Glory - David Stafford
+- Brideshead Revisited - Evelyn Waugh
+
 ## 2022
 
 - An Unsung Hero Tom Crean Antarctic Survivor - Michael Smith
@@ -29,6 +53,19 @@ This is a list of all the books I have read over the last few years. Most are ju
 - The Picture of Dorian Gray - Oscar Wilde
 - Keep the Aspidistra Flying - George Orwell
 - How the World Thinks - Julian Baggini
+- Hitch 22 - Christopher Hitchens
+- Coming up for air - George Orwell
+- The House of the Dead - Fyodor Dostoevsky
+- The Heartbeat of Trees - Peter Wohlleben
+- Endurance - Alfred Lansing
+- The Road to Wigan Pier - George Orwell
+- Blitzed - Norman Ohler
+- Crime and Punishment - Fyodor Dostoevsky
+- Know my name - Chanel Miller
+- Decline and Fall - Evelyn Waugh
+- Stiff Upper Lip Jeeves - P.G. Wodehouse
+- The Inimitable Jeeves - P.G. Wodehouse
+
 
 ## 2021
 
