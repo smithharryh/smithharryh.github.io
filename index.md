@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 ---
 
 <img src="/assets/mugshot3.jpeg" alt="Photo of Me"
