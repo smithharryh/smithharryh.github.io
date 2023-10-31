@@ -3,36 +3,25 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+<h5>TLDR</h5>
+<p>Data Scientist/software engineer with MSc from St Andrews. Co-founded a data business in the retrofit space and found a passion for energy.</p>
+<h5>The long version... </h5>
+<p>I graduated from the University of St Andrews with an MSc in Digital Health (Computer science applied to healthcare) in December 2022. Before that I got a 1st in my Computer Science BSc. I've worked in the cyber security sector, the data science arena and the coding dojo. I combined these with an interest in the future of energy to co-found my first business <a href="www.ecofithomes.com">Ecofit Homes</a>. I built a ton of products from a REST API, to a web platform to an extensive data pipeline, some of which worked and made us money (🎉), some of which didn't (⛔️) but were fun to try. I try and read broadly and keep a list of what I've read <a href="/books">here</a>, but mainly focus on classic fiction, AI, energy and history.</p>
 
-<p>After graduating with a 1st class degree in Computer Science BSc, I am continuing my studies at the University of St Andrews where I am studying for an MSc in Digital Health. My main areas of interest (outside of Scotland Rugby and Arsenal), are Artificial Intelligence and Machine Learning, and the implementations of technology for health. I <a href="/books">read a lot</a> and sometimes <a href="/blog/blog">write about what I've read or other things</a>. (or I will do this eventually...)
+<p>Now I am doing a deep dive into energy to understand what the future looks like and how to get there. I'm writing a blog to answer some of my own questions <a href="/blog/blog">here</a>. I would love feedback or suggestions but mainly write this just to organise thoughts/record what I've discovered, not for a wide audience!</p>
 
-I am always happy to talk about anything mentioned on the site. Get in touch with the links at the bottom of the page. 
-
-You can view my whole CV <a href="#">here</a>, or take a look at the <a href="/projects/projects">projects</a> I have done in the past or my experience below.
-
-</p>
+<p>Take a look at the <a href="/projects/projects">projects</a> I have done in the past (desperately needs updating) or my experience below.</p>
 <hr>
 
-<h3>Education 📚</h3>
+<h3>👨🏼‍💻 Experience</h3>
 
-<strong>University of St Andrews - <i>2021 to 2022</i></strong>
+<strong> Ecofit Homes, Co-founder and CTO, UK - 2022 - </strong>
 
-MSc in Digital Health
+I cofounded Ecofit Homes and ran all technical development. We started as a one stop retrofit solution with a web platform for home improvement information and custom recommendations. We then pivoted into the data game and had some real successes, including selling our data to one of the biggest utility companies in the UK. Technical work included: Web Development (Django, Python, React, PostgreSQL), building a REST API (FastAPI, MongoDB, AWS) and crafting an extensive data pipeline (AWS, PySpark).
 
-<strong>Kingston University London - <i>2017 to 2021</i></strong>
+<strong> Cyber Threat Innovations Analyst, UK - 2022 - 2023</strong>
 
-First Class in Computer Science BSc with Industrial Placement (89% average)
-
-<strong>Prior Park College - <i>2009 to 2016</i></strong>
-
-10 GCSEs at A-C including English and Maths
-3 A Levels in Philosophy, English and Economics 
-
-<h3>Experience 👨🏼‍💻</h3>
-
-<strong> Cyber Threat Innovations Analyst, UK - 2022 - </strong>
-
-I have returned to the company I worked with on my internship after my masters in a more senior role looking at both innovations and development, and cyber threat intelligence 
+I returned to the company I worked with on my internship after my masters in a more senior role looking at both innovations and development, and cyber threat intelligence. I particularly looked at web application development in Python/Django/Flask, and data analysis.
 
 
 <strong>Intelligence Analyst & Developer, Internship, UK — 2019 - 2020 </strong>
@@ -54,3 +43,19 @@ oral communication and ability to deal with a variety of customers.
 
 I played a lead role in an £8 million project, reporting to senior managers within the company nationwide. The systems and
 organisational structure I created were continually used after I left.
+
+
+<h3>📚 Education</h3>
+
+<strong>University of St Andrews - <i>2021 to 2022</i></strong>
+
+MSc in Digital Health
+
+<strong>Kingston University London - <i>2017 to 2021</i></strong>
+
+First Class in Computer Science BSc with Industrial Placement (89% average)
+
+<strong>Prior Park College - <i>2009 to 2016</i></strong>
+
+10 GCSEs at A-C including English and Maths
+3 A Levels in Philosophy, English and Economics 
