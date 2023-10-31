@@ -30,6 +30,11 @@ This is a list of all the books I have read over the last few years. Most are ju
 - American Prometheus - Kai Bird and Martin J. Sherwin
 - Oblivion or Glory - David Stafford
 - Brideshead Revisited - Evelyn Waugh
+- Politics on The Edge - Rory Stewart
+- Elon Musk - Walter Isaacson
+- The Spy Who Came in From the Cold - John le Carré
+- Call for the Dead - John le Carré
+- The Quiet American - Graham Greene
 
 ## 2022
 

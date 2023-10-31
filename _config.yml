@@ -21,7 +21,7 @@
 title: Harry Smith
 email: smithharryh@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Some thoughts about some things, and a bit about what I've done too.
+  I'm a data person/software engineer desperately trying to commit to writing a blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://smithharryh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  smithharryh
