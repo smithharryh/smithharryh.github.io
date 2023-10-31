@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/projects/
+permalink: /projects/
 ---
 
 I have added some projects I have worked/am currently working on below. Take a look and get in touch with any questions.

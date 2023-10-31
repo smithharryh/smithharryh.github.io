@@ -8,9 +8,9 @@ permalink: /about/
 <h2>The long version... </h2>
 <p>I graduated from the University of St Andrews with an MSc in Digital Health (Computer science applied to healthcare) in December 2022. Before that I got a 1st in my Computer Science BSc. I've worked in the cyber security sector, the data science arena and the coding dojo. I combined these with an interest in the future of energy to co-found my first business <a href="www.ecofithomes.com">Ecofit Homes</a>. I built a ton of products from a REST API, to a web platform to an extensive data pipeline, some of which worked and made us money (🎉), some of which didn't (⛔️) but were fun to try. I try and read broadly and keep a list of what I've read <a href="/books">here</a>, but mainly focus on classic fiction, AI, energy and history.</p>
 
-<p>Now I am doing a deep dive into energy to understand what the future looks like and how to get there. I'm writing a blog to answer some of my own questions <a href="/blog/blog">here</a>. I would love feedback or suggestions but mainly write this just to organise thoughts/record what I've discovered, not for a wide audience!</p>
+<p>Now I am doing a deep dive into energy to understand what the future looks like and how to get there. I'm writing a blog to answer some of my own questions <a href="/blog/">here</a>. I would love feedback or suggestions but mainly write this just to organise thoughts/record what I've discovered, not for a wide audience!</p>
 
-<p>Take a look at the <a href="/projects/projects">projects</a> I have done in the past (desperately needs updating) or my experience below.</p>
+<p>Take a look at the <a href="/projects/">projects</a> I have done in the past (desperately needs updating) or my experience below.</p>
 <hr>
 
 <h3>👨🏼‍💻 Experience</h3>
