@@ -5,6 +5,15 @@ permalink: /projects/
 ---
 
 I have added some projects I have worked/am currently working on below. Take a look and get in touch with any questions.
+
+<h3>Ecofit Homes</h3>
+
+<i>Python, FastAPI, MongoDB, Flask, Django</i>
+
+The main project I've been working on for the past year has been Ecofit Homes. We started as an end to end retrofit platform but quickly pivoted to being a data company as we realised the huge value opportunity here. I made a data cleaning pipeline, to automate the collection, cleaning and combining of our data sources. Then I made an API which delivered the data to clients from our MongoDB database, and finally a web platform to visualise results (a bit like PowerBI but much more custom functionality).
+
+<a href="www.ecofithomes.com">See more here!</a>
+
 <h3> A comprehensive review of using magnetic resonance imaging scans to detect the presence of MGMT methylation promoter in glioblastoma patients (2022) </h3>
 
 <i> Deep Learning, Tensorflow, Jupyter, Python, Streamlit, Pydicom </i>
