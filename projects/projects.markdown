@@ -14,13 +14,18 @@ The main project I've been working on for the past year has been Ecofit Homes. W
 
 <a href="www.ecofithomes.com">See more here!</a>
 
+<h3>Academic Papers</h3>
+
+I've been working as a co-author on a couple of academic papers, generally around the topics of AI/ML in healthcare. They are in peer review right now, but I'll link here when published.
+
+
 <h3> A comprehensive review of using magnetic resonance imaging scans to detect the presence of MGMT methylation promoter in glioblastoma patients (2022) </h3>
 
 <i> Deep Learning, Tensorflow, Jupyter, Python, Streamlit, Pydicom </i>
 
 This was my masters dissertation project where I worked on the <a href="https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification"> 2021 BRaTs kaggle competition</a> to show why analysing biomarkers using mpMRIs is not possible. I did this by building a range of convolutional neural networks to assess their performance for identifying MGMT methylation promoter biomarker. I built on this by creating a proof of concept web app for clinicans to assess patient MRI scans.
 
-<a href="#"> Project Report - I'll publish when graded</a>
+<a href="../DissertationSubmission.docx"> Project Report</a>
 
 
 <h3> Amazon Price Scraper </h3>
