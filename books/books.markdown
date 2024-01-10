@@ -35,6 +35,15 @@ This is a list of all the books I have read over the last few years. Most are ju
 - The Spy Who Came in From the Cold - John le Carré
 - Call for the Dead - John le Carré
 - The Quiet American - Graham Greene
+- Enlightenment Now - Stephen Pinker
+- The Coming Wave - Mustafa Suleyman
+- Lawrence of Arabia - Ranulph Fiennes
+- A Murder of Quality - John le Carré
+- On the Road - Jack Kerouac
+- Hiroshima - John Hersey
+- One Day in the Life of Ivan Denisovich - Aleksandr Solzhenitsyn
+- The Man From The Future: The visionary life of John von Neumann - Ananyo Bhattacharya
+
 
 ## 2022
 
