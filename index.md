@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/mugshot3.jpeg" alt="Photo of Me"
+<img src="/assets/mugshot4.jpeg" alt="Photo of Me"
  width="300" style="float: left;margin-right:1rem;" />
 
 <h1> Currently co-founder of Ecofit Homes - data services in the Energy Sector accelerating the tranisition to sustainable energy. </h1>
