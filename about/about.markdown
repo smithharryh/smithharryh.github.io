@@ -3,18 +3,18 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-## TLDR<
+## >TLDR
 
 Data Scientist/software engineer with MSc from St Andrews. My energy tech start-up was acquired in 2024, and I am now working as a consultant at Procode Technology
 
-## The long version...
+## >The long version...
 I graduated from the University of St Andrews with an MSc in Digital Health (Computer science applied to healthcare) in December 2022. Before that I got a 1st in my Computer Science BSc. I've worked in the cyber security sector, the data science arena and the coding dojo. I combined these with an interest in the future of energy to co-found my first business <a href="www.ecofithomes.com">Ecofit Homes</a>. I built a ton of products from a REST API, to a web platform to an extensive data pipeline, some of which worked and made us money (🎉), some of which didn't (⛔️) but were fun to try. I try and read broadly and keep a list of what I've read <a href="/books">here</a>, but mainly focus on classic fiction, AI, energy and history.
 
 Take a look at the <a href="/projects/">projects</a> I have done in the past (desperately needs updating) or my experience below.
  
 ___
 
-### 👨🏼‍💻 Experience
+### > Experience 👨🏼‍💻
 
 **Ecofit Homes, Co-founder and CTO, UK - 2022 - 2024 [ACQUIRED]**
 
@@ -49,7 +49,7 @@ I played a lead role in an £8 million project, reporting to senior managers wit
 organisational structure I created were continually used after I left.
 
 
-### 📚 Education
+### > Education 📚
 
 **University of St Andrews - <i>2021 to 2022</i>**
 
