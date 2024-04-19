@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-I have added some projects I have worked/am currently working on below. Take a look and get in touch with any questions.
+I have added some projects I have worked/am currently working on below. When I look back at old code/work I do cringe with horror, but it is also satisfying having a record so I haven't deleted or altered anything I've worked on. Take a look and get in touch with any questions.
 
 <h3>Ecofit Homes</h3>
 
@@ -56,10 +56,3 @@ This was my final year dissertation project of my undergraduate computer science
 <a href="../FinalReport.pdf"> Project Report</a>
 
 <a href="https://github.com/smithharryh/Emergency-Service-Vehicle-Detection"> GitHub repository</a>
-
-
-<h3> Web Application Development (2019 - 2020) </h3>
-
-<i>Django, Git, D3.js, Bootstrap  </i>
-
-During my placement year on my undergrad degree I worked as a developer and analyst at a cyber security company in the financial sector. I learnt a ton and undertook my first major project: a web application to manage user data and output generated insights. I am limited in what I can say due to an NDA, but the project was a year long and the biggest project I have undertaken thus far.
