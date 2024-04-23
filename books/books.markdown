@@ -7,6 +7,15 @@ permalink: /books/
 
 This is a list of all the books I have read over the last few years. Most are just a record of what I've read but some of them I'll put a link in for some thoughts and a brief review.
 
+## 2024
+
+- The Night Manager - John le Carré
+- Dopamine Nation - Dr Anna Lembke
+- Open Secret - Stella Rimington
+- Joy in the Morning - P.G. Wodehouse
+- Freakonomics - Steven Levitt & Stephen Dubner
+
+
 ## 2023
 
 - The Old Man and The Sea - Ernest Hemingway
