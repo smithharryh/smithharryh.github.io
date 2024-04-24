@@ -14,6 +14,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Open Secret - Stella Rimington
 - Joy in the Morning - P.G. Wodehouse
 - Freakonomics - Steven Levitt & Stephen Dubner
+- Not the End of the World - Hannah Ritchie
 
 
 ## 2023
