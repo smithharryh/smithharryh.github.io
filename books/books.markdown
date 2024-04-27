@@ -15,6 +15,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Joy in the Morning - P.G. Wodehouse
 - Freakonomics - Steven Levitt & Stephen Dubner
 - Not the End of the World - Hannah Ritchie
+- Knife - Salman Rushdie
 
 
 ## 2023
