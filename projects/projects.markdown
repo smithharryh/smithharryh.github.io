@@ -16,9 +16,9 @@ The main project I've been working on for the past year has been Ecofit Homes. W
 
 <h3>Academic Papers</h3>
 
-I've been working as a co-author on a couple of academic papers, generally around the topics of AI/ML in healthcare. They are in peer review right now, but I'll link here when published.
+I've been working as a co-author on a couple of academic papers, generally around the topics of AI/ML in healthcare. The first one has been published! Hopefully more coming soon, watch this space.
 
-<a href="https://mededu.jmir.org/2023/1/e49183">UPDATE 28/12/23 - ChatGPT Versus Consultants: Blinded Evaluation on Answering Otorhinolaryngology Case–Based Questions</a>
+<a href="https://mededu.jmir.org/2023/1/e49183">ChatGPT Versus Consultants: Blinded Evaluation on Answering Otorhinolaryngology Case–Based Questions</a>
 
 
 <h3> A comprehensive review of using magnetic resonance imaging scans to detect the presence of MGMT methylation promoter in glioblastoma patients (2022) </h3>
