@@ -16,6 +16,8 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Freakonomics - Steven Levitt & Stephen Dubner
 - Not the End of the World - Hannah Ritchie
 - Knife - Salman Rushdie
+- 1984 - George Orwell
+- The Gulag Archipelago- Aleksandr Solzhenitsyn
 - Nuclear War - Annie Jacobsen
 
 
