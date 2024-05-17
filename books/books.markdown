@@ -16,6 +16,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Freakonomics - Steven Levitt & Stephen Dubner
 - Not the End of the World - Hannah Ritchie
 - Knife - Salman Rushdie
+- Nuclear War - Annie Jacobsen
 
 
 ## 2023
