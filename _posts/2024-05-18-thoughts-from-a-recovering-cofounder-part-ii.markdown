@@ -1,0 +1,1 @@
+# Thoughts from a recovering cofounder part ii
