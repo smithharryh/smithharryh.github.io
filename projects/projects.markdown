@@ -16,7 +16,10 @@ The main project I've been working on for the past year has been Ecofit Homes. W
 
 <h3>Academic Papers</h3>
 
-I've been working as a co-author on a couple of academic papers, generally around the topics of AI/ML in healthcare. The first one has been published! Hopefully more coming soon, watch this space.
+I've been working as a co-author on a couple of academic papers, generally around the topics of AI/ML in healthcare. The first one has been published! Update: The second one has as well! We are working on the next one as we speak.
+
+<a href="https://www.tandfonline.com/doi/full/10.1080/00016489.2024.2352843">Assessing unknown potential—quality and limitations of different large language models in the field of otorhinolaryngology</a>
+
 
 <a href="https://mededu.jmir.org/2023/1/e49183">ChatGPT Versus Consultants: Blinded Evaluation on Answering Otorhinolaryngology Case–Based Questions</a>
 
