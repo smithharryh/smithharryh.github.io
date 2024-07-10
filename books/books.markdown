@@ -19,6 +19,13 @@ This is a list of all the books I have read over the last few years. Most are ju
 - 1984 - George Orwell
 - The Gulag Archipelago- Aleksandr Solzhenitsyn
 - Nuclear War - Annie Jacobsen
+- Slough House - Michael Herron
+- Tripped - Norman Ohler
+- The Stalin Affair - Giles Milton
+- Something Fresh - P.G. Wodehouse
+- The End of the Affair - Graham Greene
+- The Lonely Londoners - Sal Selvon
+- The Great Gatsby - F. Scott Fitzgerald
 
 
 ## 2023
