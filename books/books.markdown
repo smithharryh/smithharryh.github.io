@@ -26,6 +26,8 @@ This is a list of all the books I have read over the last few years. Most are ju
 - The End of the Affair - Graham Greene
 - The Lonely Londoners - Sal Selvon
 - The Great Gatsby - F. Scott Fitzgerald
+- Hillbilly Elegy - J.D. Vance
+- The Lion and the Unicorn - George Orwell
 
 
 ## 2023
