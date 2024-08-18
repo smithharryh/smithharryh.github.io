@@ -28,6 +28,8 @@ This is a list of all the books I have read over the last few years. Most are ju
 - The Great Gatsby - F. Scott Fitzgerald
 - Hillbilly Elegy - J.D. Vance
 - The Lion and the Unicorn - George Orwell
+- Summer Lightning - P.G. Wodehouse
+
 
 
 ## 2023
