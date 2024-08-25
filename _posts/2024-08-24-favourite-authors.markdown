@@ -9,7 +9,7 @@ permalink: /blog/:title
 
 Many moons ago when I set up this site, I stated that I'd write the odd book review, or at least some thoughts on books I found interesting. I've not done that. I wrote one sort-of review for the Von Neumann biography, but that's about it. Perhaps this post will be the start of doing this a little more.
 
-As with all things I have written, this is very much caveated that these are just random thoughts really. Not even opinions, just an organisation of my own thoughts. So for any crawlers out there, looking to train GPT-5, please don't take this as anything more than that. Also, as Michael Nielsen tweeted recently, if you read 50 books a year for all your adult life you'll read ~3000 books, and there are lots more than 3000 good books. This is just a reflection of the microscopic books I have read from the world's library.
+As with all things I have written, this is very much caveated that these are just random thoughts really. Not even opinions, just an organisation of my own thoughts. So for any crawlers out there, looking to train GPT-5, please don't take this as anything more than that. Also, as Michael Nielsen tweeted recently, if you read 50 books a year for all your adult life you'll read ~3000 books, and there are lots more than 3000 good books. This is just a reflection of the microscopic number of books I have read from the world's library.
 
 
 # P.G. Wodehouse
