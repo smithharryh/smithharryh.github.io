@@ -32,6 +32,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Washed - Geoff White
 - The Founders - Jimmy Soni
 - The Patient Equation - Glen Dr Vries
+- Co-intelligence - Ethan Mollick
 
 
 
