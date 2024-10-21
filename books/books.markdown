@@ -33,7 +33,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - The Founders - Jimmy Soni
 - The Patient Equation - Glen Dr Vries
 - Co-intelligence - Ethan Mollick
-
+- The Hitchhiker’s Guide to the Galaxy - Douglas Adams
 
 
 ## 2023
