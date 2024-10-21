@@ -20,7 +20,6 @@ I've been working as a co-author on a couple of academic papers, generally aroun
 
 <a href="https://www.tandfonline.com/doi/full/10.1080/00016489.2024.2352843">Assessing unknown potential—quality and limitations of different large language models in the field of otorhinolaryngology</a>
 
-
 <a href="https://mededu.jmir.org/2023/1/e49183">ChatGPT Versus Consultants: Blinded Evaluation on Answering Otorhinolaryngology Case–Based Questions</a>
 
 <a href="https://link.springer.com/article/10.1007/s00405-024-08985-3">Chasing sleep physicians: ChatGPT-4o on the interpretation of polysomnographic results</a>
