@@ -35,7 +35,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Co-intelligence - Ethan Mollick
 - The Hitchhiker’s Guide to the Galaxy - Douglas Adams
 - Elon Musk - Ashlee Vance
-
+- Uneasy Money - P. G. Wodehouse
 
 ## 2023
 
