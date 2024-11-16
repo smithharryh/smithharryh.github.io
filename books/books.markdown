@@ -36,6 +36,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - The Hitchhiker’s Guide to the Galaxy - Douglas Adams
 - Elon Musk - Ashlee Vance
 - Uneasy Money - P. G. Wodehouse
+- Can science explain everything - John C. Lennox
 
 ## 2023
 
