@@ -7,6 +7,10 @@ permalink: /books/
 
 This is a list of all the books I have read over the last few years. Most are just a record of what I've read but some of them I'll put a link in for some thoughts and a brief review.
 
+## 2025
+
+- The Lord of the Flies - William Golding
+
 ## 2024
 
 - The Night Manager - John le Carré
