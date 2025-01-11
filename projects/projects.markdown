@@ -27,7 +27,7 @@ I've been working as a co-author on a couple of academic papers, generally aroun
 <a href="https://link.springer.com/article/10.1007/s00405-024-09153-3">Assessment of decision-making with locally run and web-based large language models versus human board recommendations in otorhinolaryngology, head and neck surgery</a>
 
 <a href="https://www.nature.com/articles/s41433-024-03433-2">Decolonising the ‘red’ reflex test: transitioning from terminology based on colour to anatomy</a>
-
+ 
 
 <h3> A comprehensive review of using magnetic resonance imaging scans to detect the presence of MGMT methylation promoter in glioblastoma patients (2022) </h3>
 
