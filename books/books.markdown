@@ -10,6 +10,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 ## 2025
 
 - The Lord of the Flies - William Golding
+- Lincoln - Gore Vidal
 
 ## 2024
 
