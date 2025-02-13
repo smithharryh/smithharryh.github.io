@@ -11,6 +11,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 
 - The Lord of the Flies - William Golding
 - Lincoln - Gore Vidal
+- Surely you're joking, Mr Feynman! - Richard Feynman
 
 ## 2024
 
