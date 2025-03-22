@@ -14,6 +14,7 @@ This is a list of all the books I have read over the last few years. Most are ju
 - Surely you're joking, Mr Feynman! - Richard Feynman
 - The Prince - Niccolo Machiavelli
 - The Technological Republic - Alexander C. Karp and Nicholas W. Zamiska
+- The War of the Worlds - H.G. Wells
 
 ## 2024
 
